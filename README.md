@@ -11,5 +11,5 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📫 تواصل معي
-- **LinkedIn:** [https://www.linkedin.com/in/albashrawi]
-- **Email:** [Mujtaba0Albashrawi@gmail.com]
+- **LinkedIn:** [@albashrawi](https://www.linkedin.com/in/albashrawi)
+- **Email:** [Mujtaba0Albashrawi@gmail.com](mailto:Mujtaba0Albashrawi@gmail.com)
